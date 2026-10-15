@@ -1,8 +1,27 @@
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Vijaysathwik777/Vijaysathwik777/main/banner.jpg"
-    alt="Building Intelligent Systems for a Smarter Tomorrow"
-    width="100%"
-  />
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Vijay Sathwik — Building Intelligent Systems</title>
+<desc id="desc">A cinematic dark mountain landscape with a blue horizon and the message Building Intelligent Systems for a Smarter Tomorrow.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B13"/><stop offset=".55" stop-color="#101B2D"/><stop offset="1" stop-color="#05080E"/></linearGradient>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14243A" stop-opacity=".1"/><stop offset="1" stop-color="#3979B7" stop-opacity=".35"/></linearGradient>
+  <linearGradient id="ridge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#273B54"/><stop offset="1" stop-color="#080D17"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#60A5FA" stop-opacity=".42"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#sky)"/>
+<ellipse cx="850" cy="245" rx="360" ry="145" fill="url(#glow)"/>
+<path d="M0 270 L130 190 220 245 360 125 500 250 640 155 780 260 930 145 1080 245 1200 180 1200 360 0 360Z" fill="#17263A" opacity=".75"/>
+<path d="M0 300 L160 220 270 285 430 170 570 285 730 205 875 295 1030 185 1200 285 1200 360 0 360Z" fill="url(#ridge)"/>
+<path d="M0 325 L170 270 310 315 480 235 630 320 790 255 950 325 1100 245 1200 290 1200 360 0 360Z" fill="#070B12"/>
+<path d="M0 314 Q280 285 520 310 T1200 300" fill="none" stroke="#60A5FA" stroke-opacity=".38" stroke-width="1.5"/>
+<g fill="#DCEBFF" font-family="Arial, Helvetica, sans-serif">
+  <text x="76" y="115" font-size="17" letter-spacing="5" opacity=".8">VIJAY SATHWIK  /  AI ENGINEERING</text>
+  <text x="76" y="174" font-size="39" font-weight="700" letter-spacing="1">BUILDING INTELLIGENT</text>
+  <text x="76" y="222" font-size="39" font-weight="700" letter-spacing="1">SYSTEMS FOR A SMARTER TOMORROW</text>
+  <text x="78" y="263" font-size="15" letter-spacing="4" fill="#93C5FD">AI  ·  AGENTIC SYSTEMS  ·  AUTOMATION</text>
+</g>
+<path d="M76 285 H370" stroke="#60A5FA" stroke-width="2" opacity=".85"/>
+<circle cx="1080" cy="78" r="2" fill="#BFDBFE" opacity=".8"/>
+<circle cx="1120" cy="118" r="1.5" fill="#BFDBFE" opacity=".65"/>
+<circle cx="980" cy="62" r="1.5" fill="#BFDBFE" opacity=".7"/>
+</svg>
