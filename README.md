@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vijaysathwik777/Vijaysathwik777/main/banner.jpg" width="100%" alt="Building Intelligent Systems for a Smarter Tomorrow"/>
+<img src="assets/profile-banner.svg" width="100%" alt="Building Intelligent Systems for a Smarter Tomorrow"/>
 
 <br/>
 
