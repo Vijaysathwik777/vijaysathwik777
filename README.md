@@ -1,18 +1,19 @@
 
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="Building Intelligent Systems for a Smarter Tomorrow"/>
+<img src="https://raw.githubusercontent.com/Vijaysathwik777/Vijaysathwik777/main/banner.jpg" width="100%" alt="Vijay Sathwik Banner"/>
 
-<br/>
+<br/><br/>
 
 # Vijay Sathwik
 
 ### AI Engineer | Agentic AI | Intelligent Systems
 
-Building intelligent applications through AI engineering, autonomous agents, and software development.
+**Building intelligent applications through AI engineering, autonomous agents, and software development.**
 
-[GitHub](https://github.com/Vijaysathwik777) &nbsp; • &nbsp;
-[LinkedIn](https://www.linkedin.com/in/vijay-sathwik/)
+<a href="https://github.com/Vijaysathwik777">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/vijay-sathwik/">LinkedIn</a>
 
 <br/>
 
@@ -28,11 +29,12 @@ Building intelligent applications through AI engineering, autonomous agents, and
 
 I am a Computer Science undergraduate specializing in Artificial Intelligence, with a strong interest in AI engineering and intelligent application development.
 
-My work focuses on exploring how Large Language Models, retrieval systems, and autonomous agents can be engineered into practical, reliable software applications.
+My focus is on engineering practical AI applications using Large Language Models, retrieval systems, and autonomous agents.
 
-I am particularly interested in building systems that go beyond basic AI interactions — systems that can reason, make decisions, interact with tools, and operate within clearly defined execution boundaries.
+I am particularly interested in building systems that can reason, make decisions, interact with tools, and operate within clearly defined execution boundaries.
 
 **Professional interests**
+
 - AI Application Engineering
 - Agentic AI and Autonomous Systems
 - Large Language Model Applications
@@ -71,11 +73,11 @@ I am particularly interested in building systems that go beyond basic AI interac
 
 ### INTELLIGENT EXECUTION GATEKEEPER
 
-An execution gatekeeper designed for autonomous AI workflows.
-
 </div>
 
-IntentOS introduces a decision layer between an AI system's intent and its execution. Its purpose is to make autonomous actions more controlled, predictable, and accountable.
+IntentOS introduces a decision layer between an AI system's intent and its execution.
+
+Its purpose is to make autonomous actions more controlled, predictable, and accountable.
 
 ### Decision Architecture
 
@@ -111,14 +113,10 @@ Escalate consequential actions.
 </tr>
 </table>
 
-**Engineering objective:** Make AI autonomy more reliable through structured decisions and human oversight.
-
 <div align="center">
 
 <a href="https://github.com/Vijaysathwik777/intentos">
-
 <img src="https://img.shields.io/badge/EXPLORE%20INTENTOS-181818?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </div>
@@ -166,8 +164,6 @@ Developing intelligent workflows that improve efficiency and reduce repetitive t
 
 <h2 align="center">05 / MY LEARNING JOURNEY</h2>
 
-I believe strong AI engineering starts with strong fundamentals.
-
 <details>
 <summary><b>Programming & Software Engineering</b></summary>
 
@@ -204,33 +200,11 @@ I believe strong AI engineering starts with strong fundamentals.
 
 ---
 
-<h2 align="center">06 / GITHUB ANALYTICS</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vijaysathwik777&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaysathwik777&layout=compact&hide_border=true&theme=transparent"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=Vijaysathwik777&hide_border=true&theme=transparent"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vijaysathwik777&bg_color=00000000&color=539BF5&line=539BF5&point=FFFFFF&hide_border=true&area=true"/>
-
-</div>
-
----
-
-<h2 align="center">07 / BEYOND THE CODE</h2>
+<h2 align="center">06 / BEYOND THE CODE</h2>
 
 <div align="center">
 
 I believe technology becomes meaningful when it solves real problems.
-
-My approach is simple:
 
 **Understand the problem.**
 
@@ -242,7 +216,7 @@ My approach is simple:
 
 ---
 
-<h2 align="center">08 / LET'S CONNECT</h2>
+<h2 align="center">07 / LET'S CONNECT</h2>
 
 <div align="center">
 
